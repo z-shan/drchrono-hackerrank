@@ -1,4 +1,33 @@
-# drchrono-hackerrank
+# drchrono-hackerrank - Dr. Chrono HackerRank Coding Challenge Solutions
+
+## count matches
+
+### Challenge
+
+Given a string `ABCDDCDABCDABCDDDCDA` and a pattern `AB*D`, return the number of occurences of the pattern in the string.
+The string will only consist of the characters `A`, `B`, `C`, and `D`. The pattern will consist of the same characters but may also contain a wild card `*`.
+The input will be 3 lines taken from standard input.
+
+### Input format
+
+* Line 1: `<NUMBER OF CHARACTERS IN STRING> <NUMBER OF CHARACTERS IN PATTERN>`
+* Line 2: `<STRING>`
+* Line 3: `<PATTERN>`
+
+### Sample input:
+
+```
+20 4
+ABCDDCDABCDABCDDDCDA
+AB*D
+```
+### Sample output:
+
+```
+3
+```
+
+----------------------------------------
 
 ## UniqueSSN.js
 
