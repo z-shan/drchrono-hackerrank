@@ -1,6 +1,6 @@
 # drchrono-hackerrank - Dr. Chrono HackerRank Coding Challenge Solutions
 
-## count matches
+## CountMatches.js
 
 ### Challenge
 
